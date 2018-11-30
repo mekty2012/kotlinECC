@@ -1,3 +1,3 @@
-class TestException(override var message:String): Exception(message) {
+class ECCException(override var message:String): Exception(message) {
 
 }
