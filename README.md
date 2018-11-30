@@ -28,4 +28,4 @@ based on shared secret, decrypt encrypted text.
 try to
 1. get shared secret
 2. modify encrypted text and not detected
-3. pretend as alice/eve
+3. pretend as alice/bob
